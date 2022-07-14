@@ -14,7 +14,7 @@ function Pokemon(){
             console.log(data.data);   
         });        
     }, []);    
-
+ 
     return(
         <div>
             <div className="pokemons">
