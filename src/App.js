@@ -115,7 +115,6 @@ function App(props) {
     window.alert(message.current.className);
   }
 
- 
   return(
     <div>
         {
